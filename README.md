@@ -65,7 +65,7 @@ _Welcome to "Hello GitHub Actions"! :wave:_
 
 To get you started, we used actions to go ahead and made a branch and pull request for you.
 
-### :keyboard: Activity: Create a workflow file
+### :keyboard: Activity: Create a workflow file<3
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 1. Navigate to the **Code** tab.
